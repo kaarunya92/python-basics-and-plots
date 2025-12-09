@@ -1,47 +1,35 @@
-Python Data Visualization with Matplotlib
+📊 Python Data Visualization with Matplotlib
 
-This repository contains a collection of Python programs that demonstrate basic data visualization techniques using Matplotlib and NumPy. The project includes simple examples such as line graphs, bar charts, histograms, and subplots. It is designed for beginners, students, and anyone looking to understand how to create visual representations of data using Python.
+This repository contains a collection of Python programs demonstrating fundamental data visualization techniques using Matplotlib and NumPy.
+It includes basic plots, subplots, histograms, bar charts, and random data generation—ideal for beginners and academic lab exercises.
 
-Features Included
-
+🚀 Features Included
 Line graph for values from 0 to 10
+Vertical bar chart for product sales
+2×2 subplot grid with different plot typesHistogram using 200 normally distributed random values
+Customized colors, markers, and grid styles
+Clean code structure for easy understanding
 
-Vertical bar chart showing product sales
-
-A 2×2 grid of subplots with different plot types
-
-Histogram generated from 200 normally distributed random values
-
-Custom colors and styling applied to each plot
-
-Clear and readable code for easy learning
-
-Files in This Repository
+📂 File Contents
 File	Description
-line_plot.py	Program to generate a basic line graph
-bar_chart.py	Program to create a vertical bar chart
-subplots.py	Program that displays a 2×2 grid of four plots
-histogram.py	Program that generates a histogram with 20 bins
+line_plot.py	Basic line graph using Matplotlib
+bar_chart.py	Vertical bar chart for sample product sales
+subplots.py	2×2 grid of multiple plot types
+histogram.py	Histogram of 200 randomly generated values
 README.md	Documentation for the project
-Technologies Used
 
+🛠 Technologies Used
 Python
-
 Matplotlib
-
 NumPy
 
-How to Run the Programs
+📦 How to Run
 
-Install the required libraries:
-
+Install dependencies:
 pip install matplotlib numpy
 
-
-Run any program using:
-
+Run any file:
 python filename.py
 
-Purpose of the Project
-
-This project has been created as part of academic learning and practical exploration of data visualization in Python. It aims to provide simple, understandable examples that can help learners build confidence in using Matplotlib.
+📘 Purpose
+This project is created to understand and practice Python data visualization as part of academic learning and practical experimentation.
